@@ -5,6 +5,7 @@ pkgbase = meshlab
 	url = https://www.meshlab.net
 	arch = i686
 	arch = x86_64
+	arch = aarch64
 	license = GPL2
 	makedepends = boost
 	makedepends = cmake
